@@ -1,0 +1,11 @@
+# .gitignore
+
+libs/
+tmp/
+
+# node.js packages
+.sass-cache/
+node_modules/
+
+# os generated files
+.DS_STORE
